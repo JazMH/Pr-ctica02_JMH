@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLz6vA0jVWTsyzMVOtXCVC6+4k7vMr8fpyA+go3x9rXlcPltMWIc3ShqKtDVXhgzu4rtKPr0NnX002TSO8PtOg==",
+  "success": true,
+  "projectFilePath": "D:\\Practica\\Lab3_SplashScreen\\Lab3_SplashScreen\\Lab3_SplashScreen.iOS\\Lab3_SplashScreen.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jazzy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jazzy\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Jazzy\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
